@@ -7,6 +7,7 @@ int main()
     std::cout << "ASD\n";
     std::cout << "Обновлено 3\n";// not displayed correctly on github ((
     std::cout << "Update 4\n";
+    int x = 1;
     system("PAUSE");
 }
 
