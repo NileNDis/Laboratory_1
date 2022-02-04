@@ -5,8 +5,10 @@
 
 int main()
 {
+    setlocale(LC_ALL, "rus");
     std::cout << "Hello World!\n";
-    std::cout << "ASD";
+    std::cout << "ASD\n";
+    std::cout << "Обновлено 3\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
